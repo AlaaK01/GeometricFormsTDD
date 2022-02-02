@@ -19,21 +19,3 @@ namespace GeometricFormsTDD.Core.Interface
         float GetArea();
     }
 }
-/*
-Area of Isosceles Triangle Using Sides
-Area = 12×b×a2–b24−−−−−√ 
-Here,
-a− length of legs (equal sides of the isosceles triangle)
-b− length of unequal side or base of the isosceles triangle.
-
-Area = ½[√(a2 − b2 ⁄4) × b]
-*/
-
-/*
- area of equilateral triangle
-Area = √3/4 × (side)2
-*/
-
-/*
- Area of a right triangle = 1/2 × base × height.
-*/
